@@ -1,4 +1,3 @@
-limits-service.minimum:
-  value: 22
-limits-service.maximum:
-  value: 2222
+limits-service:
+  - minimum: 22
+  - maximum: 2222
