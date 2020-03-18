@@ -1,4 +1,4 @@
 limits-service.minimum:
   value: 44
-limits-service.minimum:
-  value: 4444
+limits-service.maximum:
+  value: 4455
