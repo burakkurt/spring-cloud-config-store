@@ -1,3 +1,4 @@
-limits-service:
-  - minimum: 33
-  - maximum: 4444
+limits-service.minimum:
+  value: 33
+limits-service.maximum:
+  value: 3333
